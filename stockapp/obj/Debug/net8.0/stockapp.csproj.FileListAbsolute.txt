@@ -1,0 +1,15 @@
+/Users/sophearyrin/Documents/Personal/learncsharp/StockApplication/stockapp/bin/Debug/net8.0/stockapp
+/Users/sophearyrin/Documents/Personal/learncsharp/StockApplication/stockapp/bin/Debug/net8.0/stockapp.deps.json
+/Users/sophearyrin/Documents/Personal/learncsharp/StockApplication/stockapp/bin/Debug/net8.0/stockapp.runtimeconfig.json
+/Users/sophearyrin/Documents/Personal/learncsharp/StockApplication/stockapp/bin/Debug/net8.0/stockapp.dll
+/Users/sophearyrin/Documents/Personal/learncsharp/StockApplication/stockapp/bin/Debug/net8.0/stockapp.pdb
+/Users/sophearyrin/Documents/Personal/learncsharp/StockApplication/stockapp/obj/Debug/net8.0/stockapp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sophearyrin/Documents/Personal/learncsharp/StockApplication/stockapp/obj/Debug/net8.0/stockapp.AssemblyInfoInputs.cache
+/Users/sophearyrin/Documents/Personal/learncsharp/StockApplication/stockapp/obj/Debug/net8.0/stockapp.AssemblyInfo.cs
+/Users/sophearyrin/Documents/Personal/learncsharp/StockApplication/stockapp/obj/Debug/net8.0/stockapp.csproj.CoreCompileInputs.cache
+/Users/sophearyrin/Documents/Personal/learncsharp/StockApplication/stockapp/obj/Debug/net8.0/stockapp.sourcelink.json
+/Users/sophearyrin/Documents/Personal/learncsharp/StockApplication/stockapp/obj/Debug/net8.0/stockapp.dll
+/Users/sophearyrin/Documents/Personal/learncsharp/StockApplication/stockapp/obj/Debug/net8.0/refint/stockapp.dll
+/Users/sophearyrin/Documents/Personal/learncsharp/StockApplication/stockapp/obj/Debug/net8.0/stockapp.pdb
+/Users/sophearyrin/Documents/Personal/learncsharp/StockApplication/stockapp/obj/Debug/net8.0/stockapp.genruntimeconfig.cache
+/Users/sophearyrin/Documents/Personal/learncsharp/StockApplication/stockapp/obj/Debug/net8.0/ref/stockapp.dll
