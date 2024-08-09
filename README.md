@@ -6,6 +6,6 @@
 # How to debug in Visual code
 - Download the extension C# by microsoft
 - command + p : .Net Generate and debug
-<img src="image.png" alt="Alt text" width="200" height="100"/>
+<img src="image.png" alt="Alt text" width="400" height="100"/>
 
 - Then you can click on debug button
