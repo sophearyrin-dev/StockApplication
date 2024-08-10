@@ -4,6 +4,12 @@ namespace stockapp
 {
   class Program
 {
+
+    //using enum
+     public enum WeekOfTheDays {
+      Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday
+    }
+
     static void Main(string[] args)
     {
         Console.WriteLine("Hello, World!");
@@ -25,6 +31,15 @@ namespace stockapp
         int d = ++c;
         Console.WriteLine(c); // c=2
         Console.WriteLine(d); // d=2
+
+        //single line comment
+
+        /*
+          multi line comment
+        */
+
+        //array
+        int[] nums = new int[3];
 
 
     }

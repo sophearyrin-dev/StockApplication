@@ -45,5 +45,8 @@
 # Non-Primitive Types
 - String, Array, Enum and Class
 
+# Enum
+- Enum is a value type that represents a set of named constants. or a set of name/value pairs
+
 
 
