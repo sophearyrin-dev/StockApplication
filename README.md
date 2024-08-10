@@ -40,5 +40,11 @@
 - For constants: const int MaxZoom = 5;
 
 
+# Primitive Types
+![Alt text](image-2.png)
+
+# Non-Primitive Types
+- String, Array, Enum and Class
+
 
 
