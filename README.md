@@ -39,7 +39,6 @@
 - For local variables: Camel Case , like int number;
 - For constants: const int MaxZoom = 5;
 
-
 # Primitive Types
 ![Alt text](image-2.png)
 

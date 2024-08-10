@@ -1,7 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
-using System;
-
 namespace stockapp
 {
   class Program
@@ -10,6 +8,13 @@ namespace stockapp
     {
         Console.WriteLine("Hello, World!");
         Console.WriteLine("Hello Sopheary");
+
+        // Parsing string to int 
+        string s = "12";
+        int i = int.Parse(s) + 1;
+        Console.WriteLine(i);
+
+
     }
 }
 }
