@@ -40,6 +40,12 @@ namespace stockapp
 
         //array
         int[] nums = new int[3];
+        int[] nums2 = [1,2,3];
+
+        // loop for each
+        foreach(var num in nums2){
+          Console.WriteLine(num);
+        }
 
 
     }
