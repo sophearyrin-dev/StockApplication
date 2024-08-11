@@ -47,6 +47,14 @@ namespace stockapp
           Console.WriteLine(num);
         }
 
+        //single dimention array
+        int[] nums3 = [1,2,3,4,5];
+
+        //trim in string
+        string str = "  hello world  ";
+        str = str.Trim();
+        Console.WriteLine("After trim: {0}", str); //hello world
+
 
     }
 }
