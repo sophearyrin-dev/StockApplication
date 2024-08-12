@@ -48,5 +48,19 @@
 # Enum
 - Enum is a value type that represents a set of named constants. or a set of name/value pairs
 
+# Nameing rule of Class
+- Naming in C# we use Pascal Case. like public class Person {}
+- Naming of the paramater we use Camel Case. like string fristName
+```cs
+public class Person {
+  public string FirstName;
+  public string LastName;
+
+  public string GetFullName(){
+    return $"{FirstName} {LastName}";
+  }
+}
+```
+
 
 

@@ -33,7 +33,6 @@ namespace stockapp
         Console.WriteLine(d); // d=2
 
         //single line comment
-
         /*
           multi line comment
         */
