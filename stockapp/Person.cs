@@ -15,11 +15,15 @@ public class Person
     this.LastName = lastName;
   }
 
-  // Constructor with parameters
-  public Person(string FirstName, string LastName)
-  {
-    this.FirstName = FirstName;
-    this.LastName = LastName;
+  // // Constructor with parameters
+  // public Person(string FirstName, string LastName)
+  // {
+  //   this.FirstName = FirstName;
+  //   this.LastName = LastName;
+  // }
+
+  public void output(){
+    Console.WriteLine($"My name is {FirstName} {LastName}");
   }
 
 }

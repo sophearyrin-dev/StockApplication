@@ -54,6 +54,10 @@ namespace stockapp
         str = str.Trim();
         Console.WriteLine("After trim: {0}", str); //hello world
 
+        Person person = new Person("Sopheary","Rin");
+        person.output();
+        
+
 
     }
 }
